@@ -7,25 +7,37 @@ A banking system with three user roles: Client, Employee, and Admin.
 👤 Client Can:
 
 1-Deposit
-2-Withdraw 
-3-Transfer 
+
+2-Withdraw
+
+3-Transfer
+
 4-Check balance
+
 5-Update password
+
 6-Logout
 
 👔 Employee Can:
 
 1-Add Client
+
 2-List Clients
+
 3-Search Client
-4-Edit Client 
+
+4-Edit Client
+
 5-Logout
 
 👑 Admin Can:
 
 1-List Employees
+
 2-Add Employees
-3-AddClients 
+
+3-AddClients
+
 4-Logout
 
 🚀 How to Run
