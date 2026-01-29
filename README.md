@@ -1,2 +1,46 @@
-# Bank-Management-System-cpp-
-Bank Management System in C++ with 3-tier access (Client/Employee/Admin). Features: secure auth, financial ops, file I/O , OOP design.
+🏦 Bank Management System - C++
+
+A banking system with three user roles: Client, Employee, and Admin.
+
+👥 User Roles & Features
+
+👤 Client Can:
+
+1-Deposit
+2-Withdraw 
+3-Transfer 
+4-Check balance
+5-Update password
+6-Logout
+
+👔 Employee Can:
+
+1-Add Client
+2-List Clients
+3-Search Client
+4-Edit Client 
+5-Logout
+
+👑 Admin Can:
+
+1-List Employees
+2-Add Employees
+3-AddClients 
+4-Logout
+
+🚀 How to Run
+```bash
+git clone https://github.com/FaresHe7/Bank-Management-System-cpp-.git
+cd Bank-Management-System-cpp-
+g++ *.cpp -o bank
+./bank
+
+📁 Files
+
+· Clients.txt - Stores client data
+· Employees.txt - Stores employee data
+· Admins.txt - Stores admin data
+
+🔐 Login Credentials
+
+Use ID and password to login based on your role.
