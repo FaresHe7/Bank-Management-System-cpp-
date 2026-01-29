@@ -34,6 +34,7 @@ git clone https://github.com/FaresHe7/Bank-Management-System-cpp-.git
 cd Bank-Management-System-cpp-
 g++ *.cpp -o bank
 ./bank
+```
 
 📁 Files
 
