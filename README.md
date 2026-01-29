@@ -38,9 +38,9 @@ g++ *.cpp -o bank
 
 📁 Files
 
-· Clients.txt - Stores client data
-· Employees.txt - Stores employee data
-· Admins.txt - Stores admin data
+1-Clients.txt - Stores client data
+2-Employees.txt - Stores employee data
+3-Admins.txt - Stores admin data
 
 🔐 Login Credentials
 
